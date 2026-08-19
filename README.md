@@ -18,7 +18,7 @@ A modern and responsive furniture landing page designed with a clean, minimal in
 
 ## 🌐 Live Demo
 
-[View Live Website](https://github.com/Tamil-Sekar/Furniture-Landingpage)
+[View Live Website](http://127.0.0.1:5500/index.html)
 
 ## 🎯 Project Goal
 
